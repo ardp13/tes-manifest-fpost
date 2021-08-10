@@ -1,0 +1,39 @@
+{
+  "name": "Finansialpost",
+  "short_name": "FinPost",
+  "scope": "https://www.finansialpost.com/",
+  "start_url": "https://www.finansialpost.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Blog yang membahas mengenai akuntansi dan keuangan",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-V8a37IxFzJY/YRLE475Gp8I/AAAAAAAAB7Y/qjC29Tvg5SIaFQ9YLOrOTdLM9NToWcrQwCLcBGAsYHQ/s48/FPost%2Bicon%2B512%2BRound.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-V8a37IxFzJY/YRLE475Gp8I/AAAAAAAAB7Y/qjC29Tvg5SIaFQ9YLOrOTdLM9NToWcrQwCLcBGAsYHQ/s72/FPost%2Bicon%2B512%2BRound.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-V8a37IxFzJY/YRLE475Gp8I/AAAAAAAAB7Y/qjC29Tvg5SIaFQ9YLOrOTdLM9NToWcrQwCLcBGAsYHQ/s96/FPost%2Bicon%2B512%2BRound.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-V8a37IxFzJY/YRLE475Gp8I/AAAAAAAAB7Y/qjC29Tvg5SIaFQ9YLOrOTdLM9NToWcrQwCLcBGAsYHQ/s144/FPost%2Bicon%2B512%2BRound.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-V8a37IxFzJY/YRLE475Gp8I/AAAAAAAAB7Y/qjC29Tvg5SIaFQ9YLOrOTdLM9NToWcrQwCLcBGAsYHQ/s168/FPost%2Bicon%2B512%2BRound.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-V8a37IxFzJY/YRLE475Gp8I/AAAAAAAAB7Y/qjC29Tvg5SIaFQ9YLOrOTdLM9NToWcrQwCLcBGAsYHQ/s192/FPost%2Bicon%2B512%2BRound.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-V8a37IxFzJY/YRLE475Gp8I/AAAAAAAAB7Y/qjC29Tvg5SIaFQ9YLOrOTdLM9NToWcrQwCLcBGAsYHQ/s512/FPost%2Bicon%2B512%2BRound.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
